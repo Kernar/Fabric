@@ -1,4 +1,5 @@
-// 1.20.1	2023-10-18T17:16:34.5841419	Tutorial Mod/Block Loot Tables
+// 1.20.1	2023-10-18T22:43:10.9784317	Tutorial Mod/Block Loot Tables
+151033a87d075f2c781260a9d2f09b838137413f data\tutorialmod\loot_tables\blocks\tomato_crop.json
 03a3b82f1a2fb709266d0911c5987cde08a8ef10 data\tutorialmod\loot_tables\blocks\end_stone_ruby_ore.json
 7aa7decec75c884a168a193b073d9dbce7e37408 data\tutorialmod\loot_tables\blocks\ruby_trapdoor.json
 cc949d0a6d37d42537b3f6a8856eca6dfd258e66 data\tutorialmod\loot_tables\blocks\sound_block.json
