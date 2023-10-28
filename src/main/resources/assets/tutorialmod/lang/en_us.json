@@ -11,6 +11,8 @@
   "item.tutorialmod.corn_seeds": "Corn Seeds",
   "item.tutorialmod.corn": "Corn",
 
+
+
   "item.tutorialmod.ruby_staff": "Ruby Staff",
 
   "item.tutorialmod.ruby_pickaxe": "Ruby Pickaxe",
@@ -43,6 +45,8 @@
   "block.tutorialmod.ruby_wall": "Ruby Wall",
   "block.tutorialmod.ruby_door": "Ruby Door",
   "block.tutorialmod.ruby_trapdoor": "Ruby Trapdoor",
+
+  "block.tutorialmod.dahlia": "Dahlia",
 
   "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
 
