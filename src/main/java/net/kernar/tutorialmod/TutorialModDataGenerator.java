@@ -14,6 +14,7 @@ public class TutorialModDataGenerator implements DataGeneratorEntrypoint {
 		pack.addProvider(ModLootTableProvider::new);
 		pack.addProvider(ModModelProvider::new);
 		pack.addProvider(ModRecipeProvider::new);
+		pack.addProvider(ModPoiTagProvider::new);
 		//recuerda que con los datagen esto parte solo los activa y te dice que datagen tienes
 		//si tienes otros datagen revisa en la carpeta y aqui
 	}

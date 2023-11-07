@@ -8,6 +8,7 @@ import net.kernar.tutorialmod.item.ModItemGroups;
 import net.kernar.tutorialmod.item.ModItems;
 import net.kernar.tutorialmod.util.ModCustomTrades;
 import net.kernar.tutorialmod.util.ModLootTableModifiers;
+import net.kernar.tutorialmod.villager.ModVillagers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -25,6 +26,8 @@ public class TutorialMod implements ModInitializer {
 
 		ModLootTableModifiers.modifyLootTables();
 		ModCustomTrades.registerCustomTrades();
+
+		ModVillagers.registerVillager();
 
 		FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE, 200);
 	}
