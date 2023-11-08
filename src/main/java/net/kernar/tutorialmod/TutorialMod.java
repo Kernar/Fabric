@@ -6,6 +6,7 @@ import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.kernar.tutorialmod.block.ModBlocks;
 import net.kernar.tutorialmod.item.ModItemGroups;
 import net.kernar.tutorialmod.item.ModItems;
+import net.kernar.tutorialmod.sound.ModSounds;
 import net.kernar.tutorialmod.util.ModCustomTrades;
 import net.kernar.tutorialmod.util.ModLootTableModifiers;
 import net.kernar.tutorialmod.villager.ModVillagers;
@@ -28,6 +29,7 @@ public class TutorialMod implements ModInitializer {
 		ModCustomTrades.registerCustomTrades();
 
 		ModVillagers.registerVillager();
+		ModSounds.registerSounds();
 
 		FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE, 200);
 	}
