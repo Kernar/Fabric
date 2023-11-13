@@ -1,4 +1,4 @@
-// 1.20.1	2023-11-07T23:25:45.5266613	Tutorial Mod/Tags for minecraft:block
+// 1.20.2	2023-11-13T18:00:26.9719813	Tutorial Mod/Tags for minecraft:block
 2c2950d0c33850440a6a78f67ec70701ac9e7939 data\minecraft\tags\blocks\walls.json
 ba8d493b80709dab74096050eae307a04a22b98b data\tutorialmod\tags\blocks\metal_detector_detectable_blocks.json
 090afd1457b32fdd36d347afa6679cf48a814de9 data\minecraft\tags\blocks\needs_stone_tool.json
